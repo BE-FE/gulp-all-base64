@@ -1,5 +1,5 @@
 var path = require('path');
-var fs = require('path');
+var fs = require('fs');
 var through = require('through2');
 
 function toBase64(options) {
